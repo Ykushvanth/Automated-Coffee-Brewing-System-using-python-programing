@@ -1,2 +1,3 @@
 # Automated-Coffee-Brewing-System-using-python-programing
-This Python program simulates a coffee machine with options for making Espresso and Americano coffees. The program tracks resources like coffee beans, water, and milk, and calculates the income earned from selling coffees
+This Python program simulates a coffee machine with options for making Espresso and Americano coffees. The program tracks resources like coffee beans, water, and milk, and calculates the income earned from selling coffee
+Users can select a coffee type, and if the machine has sufficient resources, it processes the order, deducting the required resources and providing the coffee if the user pays the correct amount. If resources are insufficient or the user doesn't provide enough money, appropriate messages are displayed. Additionally, users can check their current income and remaining resources.
